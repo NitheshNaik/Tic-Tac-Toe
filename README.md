@@ -29,6 +29,8 @@ I created this project to practice and improve my **JavaScript skills** by tackl
 ---
 
 ## 📸 Demo
+<img width="1919" height="949" alt="image" src="https://github.com/user-attachments/assets/d8e1a036-83ba-4f88-a6e3-36c7ba152b8c" />
+
 
 
 ---
